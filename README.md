@@ -1,1 +1,1 @@
-# Project-Quizz
+# Project-Elite Esports Quiz
