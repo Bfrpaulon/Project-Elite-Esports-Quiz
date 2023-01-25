@@ -1,9 +1,9 @@
-## Elite Esports Quiz
+# Elite Esports Quiz
 -> This is an esports quiz project that I created as a personal project. The aim of the game is to test players' knowledge of the world of esports by answering questions about games, players, teams and competitions.
 
-# Demo
+## Demo
 
-# Technologies used
+## Technologies used
 -> HTML
 -> css
 -> JavaScript
