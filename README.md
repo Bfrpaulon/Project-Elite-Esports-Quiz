@@ -3,6 +3,8 @@
 
 ## Demo
 
+![FireShot Capture 031 - Elite Esports Quiz - project-elite-esports-quiz vercel app](https://user-images.githubusercontent.com/122818137/216375791-8a8263a6-bb82-488a-9218-39bbc761783d.png)
+
 ## Technologies used
 -> HTML
 -> css
